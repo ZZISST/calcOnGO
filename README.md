@@ -70,7 +70,6 @@ calcOnGo/
 ├── test/
 │   └── unit/
 │       └── calculator_test.go # Юнит-тесты
-├── Dockerfile            # Docker-конфигурация (опционально)
 ├── go.mod                # Модуль Go
 └── README.md             # Документация проекта
 ```
